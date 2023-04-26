@@ -1,0 +1,28 @@
+html {
+  background: #131414;
+}
+
+.eyes {
+  position: absolute;
+}
+
+#eye1 {
+  left: 335px;
+  bottom: 240px;
+  width: 64px;
+}
+#eye2 {
+  width: 64px;
+  left: 456px;
+  bottom: 260px;
+}
+#eye3 {
+  width: 75px;
+  left: 600px;
+  bottom: 495px;
+}
+#eye4 {
+  width: 70px;
+  left: 719px;
+  bottom: 500px;
+}
